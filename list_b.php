@@ -97,11 +97,11 @@ if(isset($_GET["action"]))
          <th><h1>GENEVE STORE</h1></th>
          <th><input type="text" Item Name="search" placeholder="Search for products ,brands, shops" style="width:400px;height:40px;"></th>
          <th>
-           <a href="https://www.youtube.com/watch?v=umxZ_nqzxNk" target="_blank">
+           <a href="https://www.youtube.com/watch?v=S4WguNB8s-4" target="_blank">
             <img src="YTube.png" alt="youtube" style="width:20px;height:20px;"></a>
             <a href="https://instagram-for-chrome.en.softonic.com/" target="_blank">
               <img src="instagram.png" alt="insta" style="width:20px;height:20px;"></a>
-              <a href="https://www.facebook.com/about/login/" target="_blank">	
+              <a href="https://opensoc.io" target="_blank">	
                 <img src="fb.png" alt="fb" style="width:20px;height:20px;"></a>
                 <a href="https://twitter.com/laptopmag?lang=en" target="_blank">
                   <img src="b.png" alt="twit" style="width:20px;height:20px;"></a> 
@@ -246,7 +246,7 @@ if(isset($_GET["action"]))
     <td>24 Hours</td>
   </tr>
 </table>
-© 2023 by MY GENEVE STORE
+Â© 2023 by MY GENEVE STORE
 </div>
 </div>		
 </body>  
